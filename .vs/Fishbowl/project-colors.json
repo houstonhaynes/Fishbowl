@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "50ecb5b9-dfd9-464d-b93b-06844d6f504b": {
+      "ProjectGuid": "50ecb5b9-dfd9-464d-b93b-06844d6f504b",
+      "DisplayName": "Fishbowl",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

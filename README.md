@@ -2,7 +2,7 @@
 
 Desktop app/gadget for monitoring containers and general system performance
 
-<img src="img/fishbowl.png" width="200" height="200" alt="Fishbowl Logo">
+<img src="img/fishbowl.png" width="256" height="256" alt="Fishbowl Logo">
 
 ## The Project
 
